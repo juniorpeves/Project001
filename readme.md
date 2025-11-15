@@ -1,2 +1,2 @@
 readme.md
-GIT Y GITHUB lololo
+# GIT Y GITHUB lololo
